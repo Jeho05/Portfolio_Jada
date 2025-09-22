@@ -1,0 +1,60 @@
+{
+    "general": {
+        "site_name": "Portfolio | Jada",
+        "hero_title": "Jéhojada SACCA-SIDI",
+        "hero_subtitle": "Développeur Full‑Stack",
+        "hero_cta_text": "Voir mes projets"
+    },
+    "about": {
+        "title": "Découvrez Jada",
+        "text": "Passionné par la création d'expériences web performantes et élégantes.",
+        "profile_image": "uploads/IMG_20241029_155014_1758559911_43092ea3.jpg"
+    },
+    "skills": [
+        {
+            "name": "JavaScript",
+            "level": 90
+        },
+        {
+            "name": "PHP",
+            "level": 85
+        },
+        {
+            "name": "CSS",
+            "level": 88
+        }
+    ],
+    "projects": [
+        {
+            "title": "Projet A",
+            "description": "Application web moderne.",
+            "tags": [
+                "PHP",
+                "MySQL"
+            ],
+            "url": "#",
+            "image": "assets/img/placeholder.svg"
+        },
+        {
+            "title": "Projet B",
+            "description": "Site vitrine élégant.",
+            "tags": [
+                "HTML",
+                "CSS",
+                "JS"
+            ],
+            "url": "#",
+            "image": "assets/img/placeholder.svg"
+        }
+    ],
+    "contact": {
+        "email": "contact@example.com",
+        "phone": "+33 6 12 34 56 78",
+        "location": "Paris, France",
+        "social": {
+            "github": "https://github.com/username",
+            "linkedin": "https://linkedin.com/in/username",
+            "twitter": "https://twitter.com/username"
+        }
+    }
+}
